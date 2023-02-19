@@ -1,6 +1,6 @@
 # Car-Factory
-Car factory simulation. An interesting university assignment.
-I had to write a multithreaded Java application using JavaFX that simulates car factory workflow.
+Car factory simulation. An interesting university assignment written with help from a [friend](https://github.com/badlocale) in one night :)<br>
+Multithreaded Java application using JavaFX that simulates car factory workflow.
 
 # Assignment details
 The car consists of 3 parts: body, engine and accessories. The car must
