@@ -1,0 +1,10 @@
+bodyStorageCapacity=100
+engineStorageCapacity=100
+accessoriesStorageCapacity=100
+carStorageCapacity=100
+numberOfAssemblers=5
+numberOfDealers=3
+isLogging=1
+numberOfEngineSuppliers=3
+numberOfBodySuppliers=3
+numberOfAccessoriesSuppliers=3
